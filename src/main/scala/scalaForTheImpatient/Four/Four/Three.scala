@@ -1,14 +1,19 @@
 package scalaForTheImpatient.Four.Four
 
-import scala.collection.mutable
 import scala.io.Source
 
-object Two {
+object Three {
   def main(args: Array[String]): Unit = {
+
     val source = Source.fromFile("C:\\Users\\timur\\Desktop\\input.txt")
     val iterator = source.mkString.split("\\s+")
-    val result = new mutable.HashMap[String, Int]
-    for (i <- iterator) if (result.contains(i)) result(i) += 1 else result(i) = 1
+    var result = Map[String, Int]()
+    for (word <- iterator) process(word)
     println(result)
+
+    def process(s: String): Unit = {
+      val c = result.getOrElse(s, 0)
+      result += (s -> (c + 1))
+    }
   }
 }
