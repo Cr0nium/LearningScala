@@ -7,7 +7,7 @@ object Three {
 
     val source = Source.fromFile("C:\\Users\\timur\\Desktop\\input.txt")
     val iterator = source.mkString.split("\\s+")
-    var result = Map[String, Int]()
+    var result = scala.collection.immutable.SortedMap[String, Int]()
     for (word <- iterator) process(word)
     println(result)
 
