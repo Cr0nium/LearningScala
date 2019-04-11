@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db1e8c92-5e24-4d5a-9949-0ed0b5042317" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Person.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/PersonNextStage.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/PersonNextStage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/PersonNextStage.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,7 +25,20 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/PersonNextStage.scala">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -50,8 +62,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/BankAccount.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Three.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Time.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Person.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/PersonNextStage.scala" />
       </list>
     </option>
@@ -68,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -116,6 +127,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Three (1)">
+  <component name="RunManager" selected="Application.Six">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -172,13 +184,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForTheImpatient.Four.Four.Four" />
+    <configuration name="One (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForTheImpatient.Four.Five.One" />
       <module name="LearningScala" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scalaForTheImpatient.Four.Four.*" />
+          <option name="PATTERN" value="scalaForTheImpatient.Four.Five.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,8 +198,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForTheImpatient.Four.Five.One" />
+    <configuration name="Six" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForTheImpatient.Four.Five.Six" />
       <module name="LearningScala" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -260,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Six" />
         <item itemvalue="Application.Three (1)" />
         <item itemvalue="Application.Two (1)" />
         <item itemvalue="Application.One (1)" />
         <item itemvalue="Application.Five" />
-        <item itemvalue="Application.Four" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +336,8 @@
       <workItem from="1553754533868" duration="1426000" />
       <workItem from="1554357848366" duration="46000" />
       <workItem from="1554357916756" duration="4748000" />
-      <workItem from="1554793292512" duration="1130000" />
+      <workItem from="1554793292512" duration="1148000" />
+      <workItem from="1554964363262" duration="1268000" />
     </task>
     <task id="LOCAL-00001" summary="add workspace xml">
       <created>1553065041630</created>
@@ -368,17 +381,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554362658978</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5.6 done">
+      <created>1554794433566</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554794433566</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13787000" />
+    <option name="totallyTimeSpent" value="15073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="175" y="-8" width="1753" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27347904" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27702305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -387,7 +407,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -422,7 +442,8 @@
     <MESSAGE value="5.1 done" />
     <MESSAGE value="5.2 done" />
     <MESSAGE value="5.3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.3 done" />
+    <MESSAGE value="5.6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.6 done" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/One.scala" />
@@ -555,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Person.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -569,8 +583,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/PersonNextStage.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
