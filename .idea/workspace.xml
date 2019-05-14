@@ -1,85 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/CheckingAccount.scala" line="5" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="db1e8c92-5e24-4d5a-9949-0ed0b5042317" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/Conversions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/One.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/UnitConvesration.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/BankAccount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/CheckingAccount.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/BankAccount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/BankAccount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/One.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/One.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/Person.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/PersonNextStage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/PersonNextStage.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Six.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/Six.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/SubOne.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/SubOne.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Three.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/Three.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Time.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/Time.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five/Two.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Five/Two.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Four/Five.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Five.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Four/Four.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Four.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Four/One.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/One.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Four/Three.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Three.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Four/Two.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/One/One.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/One/One.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Three/Five.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Three/Five.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Three/Four.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Three/Four.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Three/One.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Three/One.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Three/Three.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Three/Three.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Three/Two.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Three/Two.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/Five.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/Five.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/Four.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/Four.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/One.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/One.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/Seven.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/Seven.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/Six.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/Six.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/Ten.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/Ten.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/Three.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/Three.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two/Two.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Two/Two.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Four/One$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Four/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Four/Two$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Four/Two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/One/One$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/One/One$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/One/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Five$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Five$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Five.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Four$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Four$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Four.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/One$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/One$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Three$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Three$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Two$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Two$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Three/Two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Five$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Five$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Five.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Four$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Four$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Four.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/One$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/One$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Seven$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Seven$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Seven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Six$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Six$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Six.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Ten$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Ten$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Ten.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Three$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Three$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Two$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Two$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scalaForTheImpatient/Four/Two/Two.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,30 +25,21 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/Conversions.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/BankAccount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/One.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/CheckingAccount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/UnitConvesration.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -152,6 +71,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/Conversions.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/UnitConvesration.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/One.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/BankAccount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/CheckingAccount.scala" />
       </list>
     </option>
   </component>
@@ -167,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -202,17 +122,27 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="scalaForTheImpatient" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearningScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalaForTheImpatient" type="462c0819:PsiDirectoryNode" />
+              <item name="Eight" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553755999887" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../correlated-call-mart" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -416,7 +346,9 @@
       <workItem from="1554357916756" duration="4748000" />
       <workItem from="1554793292512" duration="1148000" />
       <workItem from="1554964363262" duration="1438000" />
-      <workItem from="1555654216599" duration="3957000" />
+      <workItem from="1555654216599" duration="4229000" />
+      <workItem from="1556975048513" duration="12000" />
+      <workItem from="1557812012287" duration="3459000" />
     </task>
     <task id="LOCAL-00001" summary="add workspace xml">
       <created>1553065041630</created>
@@ -474,17 +406,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554965784930</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="6.1, 6.2 done">
+      <created>1555659014504</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555659014504</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19200000" />
+    <option name="totallyTimeSpent" value="22943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="175" y="-8" width="1753" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28056705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28765506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -493,7 +432,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,10 +469,10 @@
     <MESSAGE value="5.3 done" />
     <MESSAGE value="5.6 done" />
     <MESSAGE value="5.7 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.7 done" />
+    <MESSAGE value="6.1, 6.2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.1, 6.2 done" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/One.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Four/Two.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -686,8 +625,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/UnitConvesration.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/One.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -698,10 +644,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Six/One.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/BankAccount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaForTheImpatient/Eight/CheckingAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
